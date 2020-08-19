@@ -1,0 +1,11 @@
+App: Whatsup Development
+
+Author : Mani S
+
+1. UI Code
+
+2. Functional Code
+
+3. Text,Image,Video Code.
+
+4. System Code
